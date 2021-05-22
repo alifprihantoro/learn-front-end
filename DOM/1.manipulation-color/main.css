@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  margin:15px;
+}
+button{
+  background: blue;
+  padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+  border: transparent;
+}
+.red {
+  background: red !important;
+}
